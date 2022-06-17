@@ -1,0 +1,14 @@
+There are mainly 4 branching startergies are there
+      -Git flow
+      -Github flow
+      -Gitlab flow
+      -Trunk-based development
+Git flow:
+    There are five branches are present
+       -Master(main branch)
+       -Develop(created by developer)
+       -Feature(created when a new feature has to be added)
+       -Release(while merging two branches)
+       -Hotfix(while merging happends when bugs arised)
+Github Flow:
+       -mas
