@@ -18,4 +18,5 @@ Trunk Base development:
 GIT is already installed in MAC. For windows ,Linux it has to be installed.
 Platforms that provides repositories are: GITHUB,GITLAB,BIGBUCKET.
 
+1.Creating repository
 
