@@ -1,0 +1,21 @@
+Git is a version control system 
+    - Centralized version control
+    - Distributed version control
+The main usage of version controls is to work on software configuration management which merges modules.
+Centralized version control: 
+         -Earlier one
+         -Remote repository
+         -network needed
+         -if server is down the files can't be retrieved
+Distributed version control:
+         -New one
+         -Local repository
+         -copy of files will be created in local repositories when network connection is there they will be sent or stored in server
+Trunk Base development:
+         -Different versions
+         -upto that project is under 4.5v version but now we have to work on 5v, 4.5 will have a branch that is master branch to run the same program in 5V it should 
+         create a new branch which works for 5v and merge the both branches.
+GIT is already installed in MAC. For windows ,Linux it has to be installed.
+Platforms that provides repositories are: GITHUB,GITLAB,BIGBUCKET.
+
+
